@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+#include<conio.h>
 int main() 
 {
 	int n,k,i,a[10],count;
