@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+#include<conio.h>
 int main(void) 
 {
 	int i,n,k,array[50],count=0;
