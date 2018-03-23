@@ -9,5 +9,6 @@ try:
 		sum=sum+c
 		avg=sum/b
 	print chr(avg)
-except:
+except: 
+
   	print('invalid')
