@@ -10,6 +10,7 @@ public class sor{
     LinkedHashSet<Integer>f=new LinkedHashSet<Integer>();
     for(int i=1;i<=a;i++){
        int c=s.nextInt();
+
        f.add(c);
     }
     ArrayList<Integer>x=new ArrayList<Integer>(f);
